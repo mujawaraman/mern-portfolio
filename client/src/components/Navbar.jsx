@@ -70,7 +70,7 @@ const Navbar = () => {
             </li>
             <li>
               <a href="#services" onClick={() => setMenuOpen(false)} className="hover:text-blue-600">
-                Services
+                All Projects
               </a>
             </li>
             <li>

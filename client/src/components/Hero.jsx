@@ -11,7 +11,7 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <section className="bg-white py-20 px-5">
+    <section id="home" className="bg-white py-20 px-5">
       <div className="max-w-7xl mx-auto flex flex-col-reverse md:flex-row items-center justify-between gap-12">
         {/* Text Section */}
         <div
